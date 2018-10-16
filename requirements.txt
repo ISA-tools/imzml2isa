@@ -1,2 +1,2 @@
-mzml2isa
+mzml2isa ~=0.5
 PyQt5
